@@ -1,0 +1,264 @@
+{
+    "historical-quiz": [
+        {
+            "id": 1,
+            "question": "Who is often referred to as the \"Iron Lady\"?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer": "Margaret Thatcher",
+                    "correct": true
+                },
+                {
+                    "id": 2,
+                    "answer": "Queen Victoria",
+                    "correct": false
+                },
+                {
+                    "id": 3,
+                    "answer": "Queen Elizabeth II",
+                    "correct": false
+                },
+                {
+                    "id": 4,
+                    "answer": "Queen Elizabeth I",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Which British monarch famously defeated the Spanish Armada in 1588?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer": "King Henry VIII",
+                    "correct": false
+                },
+                {
+                    "id": 2,
+                    "answer": "Queen Anne",
+                    "correct": false
+                },
+                {
+                    "id": 3,
+                    "answer": "Queen Elizabeth I",
+                    "correct": true
+                },
+                {
+                    "id": 4,
+                    "answer": "King James I",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "question": "Who is known for his theory of evolution by natural selection?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer": "Charles Dickens",
+                    "correct": false
+                },
+                {
+                    "id": 2,
+                    "answer": "Charles Darwin",
+                    "correct": true
+                },
+                {
+                    "id": 3,
+                    "answer": "Isaac Newton",
+                    "correct": false
+                },
+                {
+                    "id": 4,
+                    "answer": "William Shakespeare",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Which British prime minister led the country through World War II?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer": "Winston Churchill",
+                    "correct": true
+                },
+                {
+                    "id": 2,
+                    "answer": "Neville Chamberlain",
+                    "correct": false
+                },
+                {
+                    "id": 3,
+                    "answer": "Clement Attlee",
+                    "correct": false
+                },
+                {
+                    "id": 4,
+                    "answer": "David Lloyd George",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Who wrote the novels \"Pride and Prejudice\" and \"Sense and Sensibility\"?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer": "Emily Brontë",
+                    "correct": false
+                },
+                {
+                    "id": 2,
+                    "answer": "Jane Austen",
+                    "correct": true
+                },
+                {
+                    "id": 3,
+                    "answer": "Charlotte Brontë",
+                    "correct": false
+                },
+                {
+                    "id": 4,
+                    "answer": "George Eliot",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "question": "Who discovered the structure of DNA alongside James Watson?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer": "Rosalind Franklin",
+                    "correct": false
+                },
+                {
+                    "id": 2,
+                    "answer": "Marie Curie",
+                    "correct": false
+                },
+                {
+                    "id": 3,
+                    "answer": "Florence Nightingale",
+                    "correct": false
+                },
+                {
+                    "id": 4,
+                    "answer": "Francis Crick",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "question": "Which British monarch was known for her long reign spanning over 63 years?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer": "Queen Victoria",
+                    "correct": true
+                },
+                {
+                    "id": 2,
+                    "answer": "King George III",
+                    "correct": false
+                },
+                {
+                    "id": 3,
+                    "answer": "King Edward VII",
+                    "correct": false
+                },
+                {
+                    "id": 4,
+                    "answer": "Queen Elizabeth II",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "question": "Who was the British physicist known for his theory of relativity?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer": "Stephen Hawking",
+                    "correct": false
+                },
+                {
+                    "id": 2,
+                    "answer": "Isaac Newton",
+                    "correct": false
+                },
+                {
+                    "id": 3,
+                    "answer": "Albert Einstein",
+                    "correct": true
+                },
+                {
+                    "id": 4,
+                    "answer": "Michael Faraday",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "question": "Who was the British nurse known as the founder of modern nursing?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer": "Elizabeth Garrett Anderson",
+                    "correct": false
+                },
+                {
+                    "id": 2,
+                    "answer": "Mary Seacole",
+                    "correct": false
+                },
+                {
+                    "id": 3,
+                    "answer": "Florence Nightingale",
+                    "correct": true
+                },
+                {
+                    "id": 4,
+                    "answer": "Edith Cavell",
+                    "correct": false
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "question": "Who was the British playwright and poet known for works like \"Hamlet\" and \"Romeo and Juliet\"?",
+            "answers": [
+                {
+                    "id": 1,
+                    "answer": "George Bernard Shaw",
+                    "correct": false
+                },
+                {
+                    "id": 2,
+                    "answer": "William Wordsworth",
+                    "correct": false
+                },
+                {
+                    "id": 3,
+                    "answer": "William Shakespeare",
+                    "correct": true
+                },
+                {
+                    "id": 4,
+                    "answer": "John Milton",
+                    "correct": false
+                }
+            ]
+        }
+    ]
+}
